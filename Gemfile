@@ -17,7 +17,7 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'mini_racer', platforms: :ruby
 gem 'bootstrap', '~> 4.1.1'
 gem "jquery-rails"
-gem "nokogiri", '1.8.4'
+gem "nokogiri", '1.10.4'
 gem 'omniauth'
 gem 'omniauth-twitter'
 gem 'dotenv-rails'
